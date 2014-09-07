@@ -3,6 +3,8 @@ uploader
 
 Upload base place built on sinaapp. [trello.sinaapp.com](http://trello.sinaapp.com)
 
+最大上传是10M
+
 
 How to use
 ===
