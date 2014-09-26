@@ -24,3 +24,4 @@ Upload base place built on sinaapp. [trello.sinaapp.com](http://trello.sinaapp.c
 #Todo
 
 *	REST API
+*	拖拽上传
